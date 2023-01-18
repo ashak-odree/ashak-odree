@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif" width = 250px></picture>
 
 <br>
-<li>
+
 This is Ashakuzzaman Odree. <br>
 Undergraduate student <a href="https://www.bracu.ac.bd/">BRAC University</a>, <br>
 Department of Computer Science and Engineering.<br>
@@ -26,7 +26,7 @@ specialist is capable of leadership. As I want to be a programmer for <br>
 international companies, I'm looking to use my good development talents <br>
 with a focus on collaboration, communication, passion, and creativity.<br>
 This is [my resume](https://drive.google.com/file/d/1jxDYnRF3iTvDpHS5TH162wg8HDAuKRgC/view?usp=sharing)
-</li>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

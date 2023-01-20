@@ -112,6 +112,14 @@ This is [my resume](https://drive.google.com/file/d/1jxDYnRF3iTvDpHS5TH162wg8HDA
 
 <br>
 <br>
+## <b>Profile Views</b>
+
+<p align="right">
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/ashak-odree"></a>
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <b>Connect with Me at</b>
 <br>

@@ -112,9 +112,10 @@ This is [my resume](https://drive.google.com/file/d/1jxDYnRF3iTvDpHS5TH162wg8HDA
 
 <br>
 <br>
+	
 ## <b>Profile Views</b>
 
-<p align="right">
+<p align="left">
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/ashak-odree"></a>
 </p>
 

@@ -25,7 +25,7 @@ cross-platform coding, this inquisitive, dynamic computer science <br>
 specialist is capable of leadership. As I want to be a programmer for <br>
 international companies, I'm looking to use my good development talents <br>
 with a focus on collaboration, communication, passion, and creativity.<br>
-This is [my resume](https://drive.google.com/file/d/1jxDYnRF3iTvDpHS5TH162wg8HDAuKRgC/view?usp=sharing)
+This is [my resume](https://drive.google.com/file/d/1X9f-UjimgoP8SkjHhxSCKwHSzwyLahMG/view?usp=sharing)
 
 <br><br>
 

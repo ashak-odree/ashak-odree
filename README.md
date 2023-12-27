@@ -148,7 +148,8 @@ This is [my resume](https://drive.google.com/file/d/1X9f-UjimgoP8SkjHhxSCKwHSzwy
 <a href="https://twitter.com/ashak_odree" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashak_odree" height="30" width="40" /></a>
 	
-	
+<a href="https://www.youtube.com/channel/UCs8Y7diPmTt-yyjkv0k7SpQ" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ashak Odree" height="30" width="40" /></a>	
 	
 	
 	
